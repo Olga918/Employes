@@ -1,0 +1,65 @@
+[33mcommit 0af4fbd30c95fc1160609c197293e9954a620674[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Olga <olgafiliepova@gmail.com>
+Date:   Mon Apr 21 20:43:39 2025 +0200
+
+    Added and removed changes
+
+[33mcommit ad82e9be830569e044e3e6f30848c6e704561b47[m
+Author: Olga <olgafiliepova@gmail.com>
+Date:   Mon Apr 21 20:20:26 2025 +0200
+
+    changes in the third file 3.txt
+
+[33mcommit 66e6a2734cdf6ec670dbe0553a957728db46b4a8[m
+Author: Olga <olgafiliepova@gmail.com>
+Date:   Mon Apr 21 20:18:58 2025 +0200
+
+    changes in the second file 2.txt
+
+[33mcommit c0813dd3c2abfebf7fe07b49baa96ce780d2c0b2[m
+Author: Olga <olgafiliepova@gmail.com>
+Date:   Mon Apr 21 20:17:36 2025 +0200
+
+    change in the first file 1.txt
+
+[33mcommit 428075eb40f0d478f115ed34e838fba0dd062f6c[m
+Author: Olga <olgafiliepova@gmail.com>
+Date:   Mon Apr 21 19:46:37 2025 +0200
+
+    added changes to the third file test3.txt
+
+[33mcommit 0f106b674cb6bb54c25fb372e05e7fcf0913e7c8[m
+Author: Olga <olgafiliepova@gmail.com>
+Date:   Mon Apr 21 19:45:02 2025 +0200
+
+    added changes to the second file test2.txt
+
+[33mcommit a4ec585f3c5a4bddf46c4f302f3149dd507d5ae0[m
+Author: Olga <olgafiliepova@gmail.com>
+Date:   Mon Apr 21 19:41:07 2025 +0200
+
+    first change added file test.txt
+
+[33mcommit dd918aafa786850c6d40b9b7e082c014c9aa9afc[m
+Author: Olga <olgafiliepova@fmail.com>
+Date:   Mon Apr 21 14:51:50 2025 +0200
+
+     added third change: test3.txt
+
+[33mcommit 4d64f5c66fcb8595850a9648bc5be70e3b01b042[m
+Author: Olga <olgafiliepova@fmail.com>
+Date:   Mon Apr 21 14:48:40 2025 +0200
+
+     change 2, added file test2.txt
+
+[33mcommit 30b33f47c46f596d02da58ea7e7e0bdad299f558[m
+Author: Olga <olgafiliepova@fmail.com>
+Date:   Mon Apr 21 14:41:50 2025 +0200
+
+    added test.txt
+
+[33mcommit 9279159d0f304be49a2e464e3c90be6ad7180611[m
+Author: Olga <olgafiliepova@fmail.com>
+Date:   Mon Apr 21 14:14:54 2025 +0200
+
+    added all files from the folder
