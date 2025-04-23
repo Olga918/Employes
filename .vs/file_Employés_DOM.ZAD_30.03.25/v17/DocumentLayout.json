@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\",
+  "WorkspaceRootPath": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B1C6BB4D-7EE0-4349-88EB-3B0DE584ECDC}|file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.vcxproj|C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1C6BB4D-7EE0-4349-88EB-3B0DE584ECDC}|file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.vcxproj|solutionrelative:file_Employ\u00E9s_DOM.ZAD_30.03.25\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B1C6BB4D-7EE0-4349-88EB-3B0DE584ECDC}|file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.vcxproj|C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1C6BB4D-7EE0-4349-88EB-3B0DE584ECDC}|file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.vcxproj|solutionrelative:file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B1C6BB4D-7EE0-4349-88EB-3B0DE584ECDC}|file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.vcxproj|C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\header.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1C6BB4D-7EE0-4349-88EB-3B0DE584ECDC}|file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.vcxproj|solutionrelative:file_Employ\u00E9s_DOM.ZAD_30.03.25\\header.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C6BB4D-7EE0-4349-88EB-3B0DE584ECDC}|file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.vcxproj|C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1C6BB4D-7EE0-4349-88EB-3B0DE584ECDC}|file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.vcxproj|solutionrelative:file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C6BB4D-7EE0-4349-88EB-3B0DE584ECDC}|file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.vcxproj|C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1C6BB4D-7EE0-4349-88EB-3B0DE584ECDC}|file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.vcxproj|solutionrelative:file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +34,62 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "employ\u00E9s.h",
-              "DocumentMoniker": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.h",
-              "RelativeDocumentMoniker": "file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.h",
-              "ToolTip": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.h",
-              "RelativeToolTip": "file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.h",
+              "DocumentIndex": 2,
+              "Title": "header.cpp",
+              "DocumentMoniker": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\header.cpp",
+              "RelativeDocumentMoniker": "file_Employ\u00E9s_DOM.ZAD_30.03.25\\header.cpp",
+              "ToolTip": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\header.cpp",
+              "RelativeToolTip": "file_Employ\u00E9s_DOM.ZAD_30.03.25\\header.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-21T11:51:55.977Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T18:54:16.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "header.h",
+              "DocumentMoniker": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\header.h",
+              "RelativeDocumentMoniker": "file_Employ\u00E9s_DOM.ZAD_30.03.25\\header.h",
+              "ToolTip": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\header.h",
+              "RelativeToolTip": "file_Employ\u00E9s_DOM.ZAD_30.03.25\\header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T18:52:52.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "employ\u00E9s.h",
+              "DocumentMoniker": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.h",
+              "RelativeDocumentMoniker": "file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.h",
+              "ToolTip": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.h",
+              "RelativeToolTip": "file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T11:51:55.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "file_Employ\u00E9s_DOM.ZAD_30.03.25.cpp",
-              "DocumentMoniker": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.cpp",
+              "DocumentMoniker": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.cpp",
               "RelativeDocumentMoniker": "file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.cpp",
-              "ToolTip": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.cpp",
+              "ToolTip": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.cpp",
               "RelativeToolTip": "file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T11:51:45.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "employ\u00E9s.cpp",
-              "DocumentMoniker": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.cpp",
+              "DocumentMoniker": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.cpp",
               "RelativeDocumentMoniker": "file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.cpp",
-              "ToolTip": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.cpp",
+              "ToolTip": "C:\\Users\\olga\\Desktop\\\u0421\u002B\u002B\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\nov papka\\file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.cpp",
               "RelativeToolTip": "file_Employ\u00E9s_DOM.ZAD_30.03.25\\employ\u00E9s.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

@@ -129,9 +129,11 @@
   <ItemGroup>
     <ClCompile Include="employés.cpp" />
     <ClCompile Include="file_Employés_DOM.ZAD_30.03.25.cpp" />
+    <ClCompile Include="header.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="employés.h" />
+    <ClInclude Include="header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
