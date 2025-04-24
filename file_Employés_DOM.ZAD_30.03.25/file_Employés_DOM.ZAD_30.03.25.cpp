@@ -24,5 +24,8 @@ int main() {
     loadFromFile(filename);
     menu(filename);
 
+
+    std::cout << "Salut mybranch" << std::endl;
+
     return 0;
 }
